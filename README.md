@@ -23,7 +23,7 @@ SHA1:	509dc927effef05b83b9ad97f4275a678c7a05bd
 
 # macOS High Sierra 10.13.2
 
-apfs.efi
+[apfs.efi](https://drive.google.com/open?id=1QHTdq0aporwRxP6AK7YM0-RXiqBqoWzE)
 
 MD5:	21e480e5e3bd91abf964ed46843b1b6c
 SHA1:	9a6f94f9bb41237f5dce2bc338a8f316d4337cc0
