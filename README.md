@@ -11,7 +11,9 @@ For me, it is not aesthetically pleasing to see such messages on every reboot. T
 
 Thank you.
 
-macOS High Sierra 10.13.3
+
+
+# macOS High Sierra 10.13.3
 
 apfs.efi
 
