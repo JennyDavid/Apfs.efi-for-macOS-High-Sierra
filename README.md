@@ -15,7 +15,7 @@ Thank you.
 
 # macOS High Sierra 10.13.3
 
-- [apfs.efi](https://drive.google.com/open?id=1VRUSVoHh6-Rz-hPPuLroXGcvdqTXQnvW)
+apfs.efi](https://drive.google.com/open?id=1VRUSVoHh6-Rz-hPPuLroXGcvdqTXQnvW)
 
 - MD5:
 
@@ -26,9 +26,10 @@ Thank you.
 	509dc927effef05b83b9ad97f4275a678c7a05bd
 
 
+
 # macOS High Sierra 10.13.2
 
-- [apfs.efi](https://drive.google.com/open?id=1QHTdq0aporwRxP6AK7YM0-RXiqBqoWzE)
+[apfs.efi](https://drive.google.com/open?id=1QHTdq0aporwRxP6AK7YM0-RXiqBqoWzE)
 
 - MD5:
 
@@ -38,9 +39,11 @@ Thank you.
 
 	9a6f94f9bb41237f5dce2bc338a8f316d4337cc0
 
+
+
 # macOS High Sierra 10.13.1
 
-- [apfs.efi](https://drive.google.com/open?id=1Gsck0zfSXdE5o_A7OUUxJ65brEClVMaBl)
+[apfs.efi](https://drive.google.com/open?id=1Gsck0zfSXdE5o_A7OUUxJ65brEClVMaBl)
 
 - MD5:
 
