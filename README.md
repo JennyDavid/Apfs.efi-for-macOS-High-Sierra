@@ -13,6 +13,19 @@ Thank you.
 
 
 
+# macOS High Sierra 10.13.4
+
+[apfs.efi](https://drive.google.com/open?id=182nSQrljoZbUgy1eQirYal3g1RVnKBIX)
+
+- MD5:
+
+	5581c10b04fd01c37b08e7ded9bb7749
+
+- SHA1:
+
+	d18e4154bad257e51f9bfd72ee09140e1147cacd
+
+
 # macOS High Sierra 10.13.3
 
 [apfs.efi](https://drive.google.com/open?id=1VRUSVoHh6-Rz-hPPuLroXGcvdqTXQnvW)
