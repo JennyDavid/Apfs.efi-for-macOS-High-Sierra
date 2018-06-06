@@ -11,6 +11,17 @@ For me, it is not aesthetically pleasing to see such messages on every reboot. T
 
 Thank you.
 
+# macOS High Sierra 10.13.5
+
+[apfs.efi](https://drive.google.com/open?id=1iCB44uCrommc8AIt7FS4tmw8Mi-unU0U)
+
+- MD5:
+
+	65a2baa9fd52f369b21428802d32bb25
+
+- SHA1:
+
+	310c7448b0f583d89a86961ef0da401b4701dc68
 
 
 # macOS High Sierra 10.13.4
@@ -39,7 +50,6 @@ Thank you.
 	509dc927effef05b83b9ad97f4275a678c7a05bd
 
 
-
 # macOS High Sierra 10.13.2
 
 [apfs.efi](https://drive.google.com/open?id=1QHTdq0aporwRxP6AK7YM0-RXiqBqoWzE)
@@ -51,7 +61,6 @@ Thank you.
 - SHA1:
 
 	9a6f94f9bb41237f5dce2bc338a8f316d4337cc0
-
 
 
 # macOS High Sierra 10.13.1
